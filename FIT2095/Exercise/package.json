@@ -1,0 +1,19 @@
+{
+  "name": "week_3",
+  "version": "1.0.0",
+  "description": "week2 lecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lecture2",
+    "week2"
+  ],
+  "author": "Lai Zi Yang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
